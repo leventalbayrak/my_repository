@@ -95,6 +95,11 @@ int main(int argc, char **argv)
 		src.w = frame_w;
 		src.h = frame_h;
 
+
+		//stuff
+
+
+
 		SDL_Rect dest;
 		dest.x = screen_width / 2;
 		dest.y = screen_height / 2;
