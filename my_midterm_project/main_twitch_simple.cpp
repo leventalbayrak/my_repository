@@ -36,8 +36,8 @@ int main(int argc, char **argv)
 
 	SDL_ShowCursor(SDL_DISABLE);
 
-	int screen_width = 32 * 32;
-	int screen_height = 32 * 16;
+	int screen_width = 16 * 32;
+	int screen_height = 16 * 16;
 
 	SDL_Window *window = SDL_CreateWindow(
 		"tilemap",
